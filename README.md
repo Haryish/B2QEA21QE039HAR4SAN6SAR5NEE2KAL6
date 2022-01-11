@@ -3,3 +3,4 @@
 This repository contains our project to safeguard and also manage version control with this software.
 Here we have project that has Mini, Main and hackathon.
 Audince are requested not to open the file / folder pasted here.
+However, these files are locked....
